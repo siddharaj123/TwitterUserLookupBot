@@ -9,3 +9,7 @@ The API is an express server that will creates a single endpoint to respond to a
 The client is a react application that provides the user the ability to interact with the twitter api as well as display the results. The state of the application is being maintained in the Twitter component.
 
 To run this code, a user will need his or her own consumer_key, consumer_secret, access_token_key, access_token_secret, which they will need to input into api -> app.js
+
+![](images/Screen%20Shot%202020-09-02%20at%209.01.52%20PM.png)
+![](images/Screen%20Shot%202020-09-02%20at%209.02.04%20PM.png)
+![](images/Screen%20Shot%202020-09-02%20at%209.02.17%20PM.png)
